@@ -1,10 +1,10 @@
 # Actividad 2: Interfaz gráfica con conexión a MySQL
 ## Errores
 ### Error login
-![Login](errLogin.png)
+![Login](screenshots/errLogin.png)
 ### Error cuando el host no tiene una DB
-![No DB](errExistantNoDB.png)
+![No DB](screenshots/errExistantNoDB.png)
 ### Error cuando la DB no existe
-![DB](errDB.png)
+![DB](screenshots/errDB.png)
 ## Inicio de sesión exitoso
-![Success](success.png)
+![Success](screenshots/success.png)
